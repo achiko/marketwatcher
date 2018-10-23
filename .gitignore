@@ -1,0 +1,10 @@
+# OS X
+*.DS_Store
+
+#Intellij IDEA
+api.iml
+
+# Node.Js
+node_modules
+
+test-awhere.js
